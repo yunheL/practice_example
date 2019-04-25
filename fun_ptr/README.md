@@ -6,5 +6,7 @@ Topics:
 3. Union  
   
 Usage:  
-`gcc -o fun_ptr fun_ptr.c -Wall`  
+`make`  
 `./fun_ptr`  
+
+Run `make clean` to remove fun_ptr as needed.  
